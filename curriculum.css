@@ -21,7 +21,7 @@
     margin-right: 5px;   
 }
 #menuArribaCentrado{
-    margin-left: 30%;
+    margin-left: 33%;
 }
 .enlacesMenuArriba{
     text-align: center;
@@ -44,7 +44,7 @@
     float: right;
     width: 10%;
     position: absolute;
-    top: 5%;
+    top: 15%;
     left: 80%;
 }
 a{
@@ -57,6 +57,7 @@ li{
 #ajustarImgLateral{
     width: 95%;
     border-radius: 50%;
+    margin-top: 35%;
 }
 #imagenAbajo{
     width: 2%;
@@ -81,8 +82,48 @@ footer{
 }
 #menuContacto{
     position: relative;
-    right: 15%;
+    right: 18%;
 }
-li:hover{
+#menuArriba:hover{
     background-color: rgba(58, 53, 53, 0.911);
+}
+#imagenesExperiencia{
+    width: 50%;
+    margin-left: 5%;
+}
+#textoExperiencia{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    position: relative;
+    left: 10%;
+}
+#imagenesProyectos{
+    width: 50%;
+    position: relative;
+    border-radius: 15%;
+}
+#textoProyectos{
+    position: relative;
+    left: -1%;
+    margin-top: 4%;
+    text-align: center;
+}
+#tituloProyecto{
+    text-align: center;
+    margin-top: 5%;
+    color: aliceblue;
+}
+#imagenesProyectosSkyrim{
+    width: 50%;
+    position: relative;
+    left: 4%;
+    border-radius: 15%;
+}
+#tituloProyectoSkyrim{
+    text-align: center;
+    margin-top: 5%;
+    color: aliceblue;
+    margin-left: 6%;
 }
