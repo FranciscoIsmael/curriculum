@@ -1,3 +1,6 @@
+*{
+    font-family: "Nerko One", Arial, Helvetica, sans-serif;
+}
 #index{
     background-color: rgb(235, 210, 120);
 }
@@ -126,4 +129,11 @@ footer{
     margin-top: 5%;
     color: aliceblue;
     margin-left: 6%;
+}
+.cara{
+    border-radius: 95%;
+    width: 140%;
+}
+#ajustarImgLateral:hover{
+    border-radius: 33%;
 }
